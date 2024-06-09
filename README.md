@@ -2,4 +2,4 @@ Este repositório contém a resolução de todos os exercícios que fiz no âmbi
 
 Apesar do curso poder ser feito ao longo do tempo que o aluno precisar, e não necessariamente em 100 dias, a sua organização está feita em 100 'projetos', cada um correspondente a um dia.
 
-Digo 'projetos' entre aspas porque alguns dias consistem em abordar e praticar novos conceitos de programação, com a execução de um projeto concreto que englobe esse aprendizado a acontecer no dia seguinte.
+Digo 'projetos' entre aspas porque alguns dias consistem em abordar e praticar novos conceitos de programação, com a execução de um projeto concreto que englobe esse aprendizado a acontecer no dia seguinte. De forma geral, cada dia tem ficheiros associados a exercícios sobre a nova matéria, e uma pasta 'Projeto' com o projeto de desafio final desse dia.
